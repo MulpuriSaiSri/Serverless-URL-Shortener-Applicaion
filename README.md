@@ -13,7 +13,11 @@ Amazon API Gateway is a fully managed service that enables developers to create,
 **What are IAM Roles?**
 AWS Identity and Access Management (IAM) roles are entities that grant access to AWS resources and actions based on the permissions you assign to them.
 
-**Architecture Design for URL Shortener**
-![Architecture Design](Serverless-URL-Shortener-Applicaion/Serverless architecture design.png)
+**Architeture Design**
+
+![Architecture Design for URL Shortener](https://raw.githubusercontent.com/MulpuriSaiSri/Serverless-URL-Shortener-Applicaion/main/Serverless%20architecture%20design.png)
+
+
+
 
 
