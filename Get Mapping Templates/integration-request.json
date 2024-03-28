@@ -1,0 +1,8 @@
+{
+    "Key":{
+       "id":{
+          "S":"$input.params().path.link-url-id"
+        }
+    },
+    "TableName":"Shortener-2"
+}
