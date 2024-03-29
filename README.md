@@ -1,4 +1,4 @@
-# Serverless-URL-Shortener-Applicaion
+# Serverless-URL-Shortener-Application
 Building Serverless URL Shortener Application using AWS Services 
 
 **What is Serverless?**
